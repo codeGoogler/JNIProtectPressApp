@@ -97,11 +97,9 @@ NDK双进程守护代码：
 
 >GitHub下载链接:
 >
->https://github.com/androidstarjack/360InstallToListener
+>https://github.com/androidstarjack/JNIProtectPressApp
 >
->下载慢？
->
->http://download.csdn.net/download/androidstarjack/9966557
+
 
 ### 相信自己，没有做不到的，只有想不到的
  如果你觉得此文对您有所帮助，欢迎入群 QQ交流群 ：232203809 
