@@ -16,4 +16,7 @@ public class WatchDog {
     public native void doubleProtectService(int userId);
     public native String stringFromJNI();
 
+    void start(){
+
+    }
 }

@@ -84,13 +84,13 @@
 NDK双进程守护代码：
 
 
-![jni类方法.png](http://upload-images.jianshu.io/upload_images/4614633-52db8edcd4c3d783.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![jni类方法](http://upload-images.jianshu.io/upload_images/4614633-52db8edcd4c3d783.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![service类.png](http://upload-images.jianshu.io/upload_images/4614633-0968259625ac7b53.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![service类](http://upload-images.jianshu.io/upload_images/4614633-0968259625ac7b53.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![fork.png](http://upload-images.jianshu.io/upload_images/4614633-7526f9d8116b18c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![fork](http://upload-images.jianshu.io/upload_images/4614633-7526f9d8116b18c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![轮训方法.png](http://upload-images.jianshu.io/upload_images/4614633-b92dbb8ff482621f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![轮训方法](http://upload-images.jianshu.io/upload_images/4614633-b92dbb8ff482621f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ![头文件声明](http://upload-images.jianshu.io/upload_images/4614633-2bb63160a272a371.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
